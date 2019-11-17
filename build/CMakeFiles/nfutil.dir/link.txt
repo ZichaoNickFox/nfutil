@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnfutil.a  CMakeFiles/nfutil.dir/src/log.cpp.o
+/usr/bin/ranlib libnfutil.a

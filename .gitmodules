@@ -1,0 +1,6 @@
+[submodule "submodules/spdlog"]
+	path = submodules/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "submodules/boolinq"]
+	path = submodules/boolinq
+	url = https://github.com/k06a/boolinq

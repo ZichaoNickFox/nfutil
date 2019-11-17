@@ -1,0 +1,2 @@
+/home/nickfox/Desktop/nickfox/nfutil/build/CMakeFiles/rebuild_cache.dir
+/home/nickfox/Desktop/nickfox/nfutil/build/CMakeFiles/edit_cache.dir
